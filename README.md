@@ -1,6 +1,6 @@
-# Proyecto final de Interacción Humano-Computadora
+# Proyecto de Interacción Humano-Computadora
 
-En este repositorio estarán las entregas del proyecto Final de la asignatura Interacción Humano-Computadora
+En este repositorio estarán las entregas del proyecto de la asignatura Interacción Humano-Computadora
 
 ---
 
