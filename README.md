@@ -1,6 +1,6 @@
-# HIC-Proyecto
+# Proyecto final de Interacción Humano-Computadora
 
-En este repositorio estarán las entregas del Proyecto Final de la Asignatura Interacción Humano-Computadora
+En este repositorio estarán las entregas del proyecto Final de la asignatura Interacción Humano-Computadora
 
 ---
 
